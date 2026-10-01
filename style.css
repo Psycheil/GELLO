@@ -60,7 +60,7 @@ body {
 }
 
 #hero {
-    background: url(books.jpg) center center / cover no-repeat;
+    background: url(books.jpg) rgba(247, 244, 244, 0.1) center center / cover no-repeat;
     opacity: 0.5;
     min-height: 70vh;
     border-bottom: 4px solid var(--gold);
